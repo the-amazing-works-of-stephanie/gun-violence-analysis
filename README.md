@@ -1,4 +1,4 @@
-## Welcome to the Analysis of Gun Violence in the World!
+### Analysis of Gun Violence Throughout the World
 
 Authors: Matthew Pohlhaus and Stephanie Shutter
 
