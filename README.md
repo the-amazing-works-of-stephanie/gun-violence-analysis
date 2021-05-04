@@ -1,8 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to the Analysis of Gun Violence in the World!
 
-You can use the [editor on GitHub](https://github.com/tsuyunoinochi/gun-violence-analysis/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Authors: Matthew Pohlhaus and Stephanie Shutter
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## saving this info for formatting assistance--DELETE before submission
 
 ### Markdown
 
