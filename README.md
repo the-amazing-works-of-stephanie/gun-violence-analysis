@@ -4,12 +4,11 @@ Authors: Matthew Pohlhaus and Stephanie Shutter
 
 Initial Steps: 
 1. Gather data and form a hypothesis
-- Gun violence statistics in USA
-- Population in USA
-- Gun violence statistics & population in 2-3 other countries (or maybe a bunch of other countries????)
-- MAYBE stats on other violent non-gun related crimes??
-2. Combine the data together into one big table 
+- Gun homicide rates in all countries :D
+- Gun ownership rates in all countries D:
+2. Combine the data together into one big table OR compare the tables in some way
 3. Examine, graph, and make conclusions
+4. For ML part, could possibly analyze the 1999-2017 data we have and "predict" the homicide rate by firearm for 2018-2020, then find relevant tables for countries we wanna pinpoint (the ones with the highest homicide rate) and see how well our algorithm has predicted the rates. 
 
 Some data sources: 
 - https://www.gunviolencearchive.org/ <- USA-centric data--doesn't have statistics on any other country
@@ -24,6 +23,8 @@ There's a lot of information here, and from a LOT of different sources, so I thi
 Notes: 
 - In reviewing the worldpopulationreview.com link, the USA has the highest gun ownership rate 120.5 of ALL listed countries. The next highest is the Falkman Islands, with 62.1, but its population is only 3533! 
 - So here we have a conundrum--do we use the Falkman Islands (62.1) with its small population + the third highest country listed, Yemen (52.8)? Or do we pick a country with a similar population size to the USA, such as Pakistan (225,199,937)? OR do we pick the highest country from each region (North America, South America, Europe, Africa, Asia, Oceania)?
+
+
 
 
 
