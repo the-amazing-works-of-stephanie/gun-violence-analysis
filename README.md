@@ -5,7 +5,7 @@ Authors: Matthew Pohlhaus and Stephanie Shutter
 Initial Steps: 
 1. Gather data and form a hypothesis
 - Gun homicide rates in all countries :D
-- Gun ownership rates in all countries D:
+- Gun ownership rates in all countries :D
 2. Combine the data together into one big table OR compare the tables in some way
 3. Examine, graph, and make conclusions
 4. For ML part, could possibly analyze the 1999-2017 data we have and "predict" the homicide rate by firearm for 2018-2020, then find relevant tables for countries we wanna pinpoint (the ones with the highest homicide rate) and see how well our algorithm has predicted the rates. 
@@ -17,6 +17,7 @@ Some data sources:
 - https://worldpopulationreview.com/country-rankings/gun-ownership-by-country <- REALLY cool interactive graph
 - https://www.npr.org/sections/goatsandsoda/2021/03/24/980838151/gun-violence-deaths-how-the-u-s-compares-to-the-rest-of-the-world
 - https://dataunodc.un.org/data/homicide/Homicide%20rate%20by%20mechanisms (this seems like a lovely dataset with well organized data)
+- http://www.smallarmssurvey.org/about-us/highlights/2018/highlight-bp-firearms-holdings.html <- contains 2017 data on civilian-owned, military-owned, & police-owned weapons around the world in 2017
 
 There's a lot of information here, and from a LOT of different sources, so I think our highest priority should be choosing which data we're using and why. What is our hypothesis? What are we looking to learn? And most importantly, which of these data sets can tell us the most varied bit of information? (i.e. we probably don't want a graph that only has the country, year, and death rate--if there's more information, that's good!)
 
